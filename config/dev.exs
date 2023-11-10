@@ -3,7 +3,7 @@ import Config
 # Configure your database
 config :pruebaphx, Pruebaphx.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "1302",
   hostname: "localhost",
   database: "pruebaphx_dev",
   stacktrace: true,
